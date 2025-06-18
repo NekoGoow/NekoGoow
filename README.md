@@ -25,10 +25,13 @@
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)
 
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; width: 100%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NekoGoow" style="flex: 1 1 auto; min-width: 300px; max-width: 49%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=NekoGoow&hide_title=true&hide_border=true&show_icons=true&line_height=21" style="flex: 1 1 auto; min-width: 300px; max-width: 49%;" />
+<div style="margin-bottom: 10">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NekoGoow" align="center" />
 </div>
+<div style="margin-bottom: 10">
+<img src="https://github-readme-stats.vercel.app/api?username=NekoGoow&hide_title=true&hide_border=true&show_icons=trueline_height=21"  align="center"/>
+</div>
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NekoGoow&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
