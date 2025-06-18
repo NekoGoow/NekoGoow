@@ -60,8 +60,9 @@
 ## Latest Blog Posts
 > My personal blog, containing some study notes and personal insights: [qiuerOTO](https://www.cnblogs.com/qiuerOTO)
 <!-- BLOG-POST-LIST:START -->
-- [JAVAHK开发心得](https://www.cnblogs.com/qiuerOTO/p/18934565)
-- [北航计网课程笔记-七、一些总结](https://www.cnblogs.com/qiuerOTO/p/18697597)
-- [北航计网课程笔记-六、应用层](https://www.cnblogs.com/qiuerOTO/p/18697596)
-- [北航计网课程笔记-五、传输层](https://www.cnblogs.com/qiuerOTO/p/18697594)
+- [JAVAHK开发心得 - qiuer0121](https://www.cnblogs.com/qiuerOTO/p/18934565)
+- [北航计网课程笔记-七、一些总结 - qiuer0121](https://www.cnblogs.com/qiuerOTO/p/18697597)
+- [北航计网课程笔记-六、应用层 - qiuer0121](https://www.cnblogs.com/qiuerOTO/p/18697596)
+- [北航计网课程笔记-五、传输层 - qiuer0121](https://www.cnblogs.com/qiuerOTO/p/18697594)
+- [北航计网课程笔记-四、网络层 - qiuer0121](https://www.cnblogs.com/qiuerOTO/p/18697592)
 <!-- BLOG-POST-LIST:END -->
