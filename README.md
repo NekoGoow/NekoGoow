@@ -13,7 +13,6 @@
 
 - 😺 I'm a student majoring in software engineering.
 - 📫 How to reach me: [sxiaoqiu99@gmail.com](sxiaoqiu99@gmail.com)
-
   
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=coffeescript&logoColor=ffffff)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
@@ -24,6 +23,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)
 
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <div style="margin-bottom: 10">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NekoGoow" align="center" />
