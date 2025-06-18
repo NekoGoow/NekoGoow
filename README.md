@@ -1,10 +1,6 @@
-## Hi there 👋
+## 😸Nice to see you!
 
 <!--
-**xiuqi1071/xiuqi1071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +10,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😺I’m currently learning Software Engineering.
+- 📫 How to reach me: [sxiaoqiu99@gmail.com](sxiaoqiu99@gmail.com)
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NekoGoow" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=NekoGoow&theme=xcode" /> </div>
+
